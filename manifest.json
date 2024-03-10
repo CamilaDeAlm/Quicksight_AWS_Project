@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://camila-amazon-project/Amazon-books.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "\"",
+        "containsHeader": "true"
+    }
+ }
