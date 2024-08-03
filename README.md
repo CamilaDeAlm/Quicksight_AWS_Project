@@ -1,9 +1,23 @@
-# Quicksitght_AWS_Project
+# Dashboard AWS Quicksight
 
-In this project, you will find:
-Data Preparation: Importing the Amazon Topselling Books dataset from Kaggle. Creating an Amazon S3 bucket for storage.
-Configuring a JSON file for upload via URL, optimizing the import process.
-QuickSight Analysis: Creating interactive and customizable dashboards. Visualizing data in real time. Exploring trends, patterns, and insights. 
-Sharing Results: Easily shareable dashboards for effective communication.
+Análise, criação da infraestrutura e disponibilização dos indicadores para o usuário final.
 
-https://www.kaggle.com/datasets/abdulrafay5/amazon-topselling-books
+Fluxograma:
+
+<div align="center">
+  <img src="https://github.com/CamilaDeAlm/Quicksight_AWS_Project/blob/main/folder/1.png" alt="Exemplo" width="largura" height="altura">
+</div>
+
+Neste projeto, você encontrará:
+Preparação de dados: Importação do conjunto de dados Amazon Topselling Books do Kaggle. Criação de um bucket Amazon S3 para armazenamento.
+Configuração de um arquivo JSON para upload via URL, otimizando o processo de importação.
+Análise QuickSight: Criação de painéis interativos e personalizáveis. Visualização de dados em tempo real. Exploração de tendências, padrões e insights.
+Compartilhamento de resultados: Painéis facilmente compartilháveis ​​para comunicação eficaz.
+
+<div align="center">
+  <img src="https://github.com/CamilaDeAlm/Quicksight_AWS_Project/blob/main/folder/5.png" alt="Exemplo" width="largura" height="altura">
+</div>
+
+Fonte: https://www.kaggle.com/datasets/abdulrafay5/amazon-topselling-books
+
+Fim.
